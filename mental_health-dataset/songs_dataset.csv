@@ -1,0 +1,41 @@
+song_id,title,artist,language,lyrics,lyrics_lang,emotion_label,genre,release_year,duration_sec,tempo,key,energy,valence,mfcc_mean,audio_path,lyrics_path
+1,Kal Ho Naa Ho,Sonu Nigam,Hindi,Har ghadi badal rahi hai roop zindagi...,Hindi,Hopeful,Bollywood,2003,320,90,C,0.7,0.8,0.45,audio/kal_ho_naa_ho.mp3,lyrics/kal_ho_naa_ho.txt
+2,Kajra Re,"Alisha Chinoy, Shankar Mahadevan, Javed Ali",Hindi,Kajra re kajra re tere kare kare naina...,Hindi,Playful,Bollywood,2005,270,120,D,0.85,0.9,0.5,audio/kajra_re.mp3,lyrics/kajra_re.txt
+3,Ajeeb Dastan Hai Yeh,Lata Mangeshkar,Hindi,"Ajeeb dastan hai yeh, kahan shuru kahan khatam...",Hindi,Melancholic,Bollywood,1960,240,85,F,0.4,0.3,0.4,audio/ajeeb_dastan_hai_yeh.mp3,lyrics/ajeeb_dastan_hai_yeh.txt
+4,Mehndi Laga Ke Rakhna,"Lata Mangeshkar, Udit Narayan",Hindi,Mehndi laga ke rakhna doli saja ke rakhna...,Hindi,Festive,Bollywood,1994,300,110,G,0.75,0.9,0.52,audio/mehndi_laga_ke_rakhna.mp3,lyrics/mehndi_laga_ke_rakhna.txt
+5,Iktara,"Kavita Seth, Amitabh Bhattacharya",Hindi,Ik tara bole to kya bole...,Hindi,Calm,Bollywood,2008,250,75,A,0.5,0.6,0.44,audio/iktara.mp3,lyrics/iktara.txt
+6,Baharon Phool Barsao,Mohammed Rafi,Hindi,"Baharon phool barsao, mera mehboob aaya hai...",Hindi,Romantic,Bollywood,1966,280,95,E,0.6,0.7,0.47,audio/baharon_phool_barsao.mp3,lyrics/baharon_phool_barsao.txt
+7,Tum Hi Ho,Arijit Singh,Hindi,Hum tere bin ab reh nahi sakte...,Hindi,Romantic,Bollywood,2013,350,65,B,0.55,0.6,0.49,audio/tum_hi_ho.mp3,lyrics/tum_hi_ho.txt
+8,Tera Ban Jaunga,"Akhil Sachdeva, Tulsi Kumar",Hindi,Main tera ban jaunga...,Hindi,Romantic,Bollywood,2018,280,70,C,0.6,0.7,0.46,audio/tera_ban_jaunga.mp3,lyrics/tera_ban_jaunga.txt
+9,Channa Mereya,Arijit Singh,Hindi,Acha chalta hoon...,Hindi,Sad,Bollywood,2016,330,60,D,0.4,0.3,0.42,audio/channa_mereya.mp3,lyrics/channa_mereya.txt
+10,Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,Tujh mein rab dikhta hai...,Hindi,Devotional,Bollywood,2008,310,80,G,0.5,0.6,0.48,audio/tujh_mein_rab_dikhta_hai.mp3,lyrics/tujh_mein_rab_dikhta_hai.txt
+11,Jeene Laga Hoon,"Atif Aslam, Shreya Ghoshal",Hindi,Jeene laga hoon pehle se zyada...,Hindi,Romantic,Bollywood,2009,295,85,A,0.6,0.7,0.47,audio/jeene_laga_hoon.mp3,lyrics/jeene_laga_hoon.txt
+12,Raabta,Arijit Singh,Hindi,Kehte hain khuda ne is jahan mein sabhi ke liye...,Hindi,Romantic,Bollywood,2012,300,75,C,0.55,0.65,0.45,audio/raabta.mp3,lyrics/raabta.txt
+13,Tera Yaar Hoon Main,Arijit Singh,Hindi,Tera yaar hoon main...,Hindi,Friendship,Bollywood,2018,310,90,B,0.7,0.8,0.5,audio/tera_yaar_hoon_main.mp3,lyrics/tera_yaar_hoon_main.txt
+14,Dil Diyan Gallan,Atif Aslam,Hindi,Dil diyan gallan...,Hindi,Romantic,Bollywood,2017,305,85,F,0.6,0.7,0.48,audio/dil_diyan_gallan.mp3,lyrics/dil_diyan_gallan.txt
+15,Pee Loon,Mohit Chauhan,Hindi,Tere bina beswaadi beswaadi raat meri...,Hindi,Romantic,Bollywood,2010,290,80,E,0.5,0.6,0.45,audio/pee_loon.mp3,lyrics/pee_loon.txt
+16,Sun Saathiya,"Priya Saraiya, Divya Kumar",Hindi,Sun saathiya...,Hindi,Romantic,Bollywood,2015,320,95,C,0.65,0.75,0.5,audio/sun_saathiya.mp3,lyrics/sun_saathiya.txt
+17,Galliyan,Ankit Tiwari,Hindi,Galliyan galliyan teri galliyan...,Hindi,Romantic,Bollywood,2014,300,90,G,0.6,0.7,0.48,audio/galliyan.mp3,lyrics/galliyan.txt
+18,Tum Mile,Neeraj Shridhar,Hindi,Tum mile to...,Hindi,Romantic,Bollywood,2009,280,85,A,0.55,0.65,0.46,audio/tum_mile.mp3,lyrics/tum_mile.txt
+19,Muskurane,Arijit Singh,Hindi,Muskurane ki wajah tum ho...,Hindi,Romantic,Bollywood,2014,310,75,B,0.6,0.7,0.49,audio/muskurane.mp3,lyrics/muskurane.txt
+20,Tum Mile,Neeraj Shridhar,Hindi,Tum mile to mil gaya yeh jahaan...,Hindi,Romantic,Bollywood,2009,290,85,F,0.55,0.65,0.46,audio/tum_mile.mp3,lyrics/tum_mile.txt
+21,Shape of You,Ed Sheeran,English,The club isn't the best place to find a lover...,English,Energetic,Pop,2017,240,96,C#,0.8,0.9,0.52,audio/shape_of_you.mp3,lyrics/shape_of_you.txt
+22,Someone Like You,Adele,English,I heard that you're settled down...,English,Melancholic,Pop,2011,285,67,A,0.4,0.3,0.45,audio/someone_like_you.mp3,lyrics/someone_like_you.txt
+23,Bohemian Rhapsody,Queen,English,Is this the real life? Is this just fantasy?...,English,Dramatic,Rock,1975,355,72,Bb,0.7,0.6,0.53,audio/bohemian_rhapsody.mp3,lyrics/bohemian_rhapsody.txt
+24,Happy,Pharrell Williams,English,Because I'm happy...,English,Happy,Pop,2013,233,160,F,0.9,0.95,0.6,audio/happy.mp3,lyrics/happy.txt
+25,Let It Be,The Beatles,English,When I find myself in times of trouble...,English,Calm,Rock,1970,243,72,C,0.5,0.6,0.48,audio/let_it_be.mp3,lyrics/let_it_be.txt
+26,Rolling in the Deep,Adele,English,There's a fire starting in my heart...,English,Powerful,Pop,2010,228,105,C,0.85,0.55,0.55,audio/rolling_in_the_deep.mp3,lyrics/rolling_in_the_deep.txt
+27,Someone You Loved,Lewis Capaldi,English,I'm going under and this time I fear there's no one to save me...,English,Sad,Pop,2018,182,110,F,0.3,0.25,0.42,audio/someone_you_loved.mp3,lyrics/someone_you_loved.txt
+28,Bad Guy,Billie Eilish,English,So you're a tough guy...,English,Playful,Pop,2019,194,135,G#,0.8,0.7,0.58,audio/bad_guy.mp3,lyrics/bad_guy.txt
+29,Thinking Out Loud,Ed Sheeran,English,When your legs don't work like they used to before...,English,Romantic,Pop,2014,281,79,D,0.6,0.75,0.5,audio/thinking_out_loud.mp3,lyrics/thinking_out_loud.txt
+30,Stay With Me,Sam Smith,English,"Guess it's true, I'm not good at a one-night stand...",English,Sad,Soul,2014,172,84,A,0.4,0.3,0.44,audio/stay_with_me.mp3,lyrics/stay_with_me.txt
+31,Uptown Funk,Mark Ronson ft. Bruno Mars,English,"This hit, that ice cold...",English,Energetic,Funk,2014,270,115,D#,0.9,0.95,0.6,audio/uptown_funk.mp3,lyrics/uptown_funk.txt
+32,Someone Like You,Adele,English,I heard that you're settled down...,English,Melancholic,Pop,2011,285,67,A,0.4,0.3,0.45,audio/someone_like_you.mp3,lyrics/someone_like_you.txt
+33,Counting Stars,OneRepublic,English,"Lately, I've been, I've been losing sleep...",English,Hopeful,Pop,2013,257,122,C#m,0.75,0.8,0.56,audio/counting_stars.mp3,lyrics/counting_stars.txt
+34,Firework,Katy Perry,English,Do you ever feel like a plastic bag...,English,Inspiring,Pop,2010,228,124,G#,0.85,0.9,0.59,audio/firework.mp3,lyrics/firework.txt
+35,Lose Yourself,Eminem,English,"Look, if you had one shot...",English,Motivational,Rap,2002,326,171,D#m,0.95,0.7,0.65,audio/lose_yourself.mp3,lyrics/lose_yourself.txt
+36,All of Me,John Legend,English,What would I do without your smart mouth...,English,Romantic,R&B,2013,269,120,Ab,0.5,0.7,0.48,audio/all_of_me.mp3,lyrics/all_of_me.txt
+37,Eye of the Tiger,Survivor,English,"Risin' up, back on the street...",English,Motivational,Rock,1982,245,109,C,0.9,0.85,0.6,audio/eye_of_the_tiger.mp3,lyrics/eye_of_the_tiger.txt
+38,Thinking Out Loud,Ed Sheeran,English,When your legs don't work like they used to before...,English,Romantic,Pop,2014,281,79,D,0.6,0.75,0.5,audio/thinking_out_loud.mp3,lyrics/thinking_out_loud.txt
+39,Perfect,Ed Sheeran,English,I found a love for me...,English,Romantic,Pop,2017,263,63,Ab,0.5,0.8,0.49,audio/perfect.mp3,lyrics/perfect.txt
+40,Counting Stars,OneRepublic,English,"Lately, I've been, I've been losing sleep...",English,Hopeful,Pop,2013,257,122,C#m,0.75,0.8,0.56,audio/counting_stars.mp3,lyrics/counting_stars.txt

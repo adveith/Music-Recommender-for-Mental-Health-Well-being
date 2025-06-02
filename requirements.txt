@@ -1,0 +1,28 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# NLP and Emotion Analysis
+transformers
+torch
+nltk
+emoji
+beautifulsoup4
+requests
+
+# Spotify & Lyrics APIs
+spotipy
+lyricsgenius
+
+# Visualization
+matplotlib
+seaborn
+plotly
+wordcloud
+
+# Web App
+streamlit
+
+# Optional (if using emotion lexicons)
+textblob
