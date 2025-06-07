@@ -14,7 +14,7 @@ os.makedirs(lyrics_folder, exist_ok=True)
 
 # ✅ Song list
 songs = [
-    "Kal Ho Naa Ho",
+"Kal Ho Naa Ho",
 "Kajra Re",
 "Ajeeb Dastan Hai Yeh",
 "Mehndi Laga Ke Rakhna",
@@ -254,7 +254,7 @@ songs = [
 "Please Forgive Me",
 "Don't Stop Me Now - Remastered 2011",
 "Your Love",
-"It Must Have Been Love - From the Film "Pretty Woman"",
+"It Must Have Been Love - From the Film",
 "Holiday / Boulevard of Broken Dreams",
 "I Was Made For Lovin' You",
 "Paradise City",
@@ -320,8 +320,8 @@ songs = [
 "Abhi Toh Party Shuru Hui Hai",
 "Saturday Saturday",
 "Dilbar (From "Satyameva Jayate")",
-"Garmi (From "Street Dancer 3D") (feat. Varun Dhawan)",
-"Muqabla (From "Street Dancer 3D")",
+"Garmi (From "Street Dancer") (feat. Varun Dhawan)",
+"Muqabla (From "Street Dancer")",
 "Naach Meri Rani (Feat. Nora Fatehi)",
 "High Rated Gabru",
 "Suit Suit",
@@ -1513,7 +1513,7 @@ songs = [
 "What Jhumka ? (From "Rocky Aur Rani Kii Prem Kahaani")",
 "Tu Kahan",
 "Dilliwaali Girlfriend",
-"Illegal Weapon 2.0 (From "Street Dancer 3D")",
+"Illegal Weapon 2.0 (From "Street Dancer")",
 "Show Me The Thumka (From "Tu Jhoothi Main Makkaar")",
 "Oh Ho Ho Ho (Remix)",
 "Be With Me",
